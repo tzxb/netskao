@@ -1,4 +1,6 @@
-# netskao-archive
+# netskao
+
+netskao源备份插件，by_invalidunit
 
 以此寄托我对 netskao 回归的希望与解决当我需要特定 Tweaks 时主服务器已经下线的无力感
 
